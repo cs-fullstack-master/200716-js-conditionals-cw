@@ -1,4 +1,4 @@
-# 200716 JS Conditionals IC
+# 200716 JS Conditionals CW
 ### Set Up
 - Create an HTML file called `index.html` with an h1 tag that display the assignment title
 - Create a JS file called `main.js `
